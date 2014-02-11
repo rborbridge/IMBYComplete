@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2FF5492A18A46A35001D9546 /* king-plans_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2FF5492518A46A35001D9546 /* king-plans_02.jpg */; };
+		2FF5492B18A46A35001D9546 /* king-plans_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2FF5492618A46A35001D9546 /* king-plans_03.jpg */; };
+		2FF5492C18A46A35001D9546 /* king-plans_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2FF5492718A46A35001D9546 /* king-plans_04.jpg */; };
+		2FF5492D18A46A35001D9546 /* king-plans_17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2FF5492818A46A35001D9546 /* king-plans_17.jpg */; };
+		2FF5492E18A46A35001D9546 /* king-plans_18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2FF5492918A46A35001D9546 /* king-plans_18.jpg */; };
 		4C1FA8BE1886D2290044F78D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C1FA8BD1886D2290044F78D /* Foundation.framework */; };
 		4C1FA8C01886D2290044F78D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C1FA8BF1886D2290044F78D /* CoreGraphics.framework */; };
 		4C1FA8C21886D2290044F78D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C1FA8C11886D2290044F78D /* UIKit.framework */; };
@@ -21,12 +26,17 @@
 		4C1FA8E31886D2290044F78D /* ImbyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C1FA8E21886D2290044F78D /* ImbyTests.m */; };
 		4C1FA8ED1886D26E0044F78D /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C1FA8EC1886D26E0044F78D /* MainStoryboard.storyboard */; };
 		4C1FA8F11886D8670044F78D /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C1FA8F01886D8670044F78D /* MapKit.framework */; };
+		4C3EFC1A189FFCCE00A4550C /* ImbyPageContentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C3EFC19189FFCCE00A4550C /* ImbyPageContentViewController.m */; };
+		4C3EFC1D189FFE1600A4550C /* ImbyStartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C3EFC1C189FFE1600A4550C /* ImbyStartViewController.m */; };
+		4C498E6B1897324D00E9026A /* ImbyCalendarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C498E6A1897324D00E9026A /* ImbyCalendarViewController.m */; };
+		4C498E6D1897335000E9026A /* EventKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C498E6C1897335000E9026A /* EventKit.framework */; };
+		4C498E6F1897336500E9026A /* EventKitUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C498E6E1897336500E9026A /* EventKitUI.framework */; };
 		4C4E521E1888DE0C00199443 /* ImbyMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C4E521D1888DE0C00199443 /* ImbyMapViewController.m */; };
 		4C4E52241889CB7000199443 /* ImbyAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C4E52231889CB7000199443 /* ImbyAnnotation.m */; };
 		4C66B38D188A00850095FDB4 /* ImbyWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C66B38C188A00850095FDB4 /* ImbyWebViewController.m */; };
 		4C66B390188A0B3D0095FDB4 /* ImbyEmailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C66B38F188A0B3D0095FDB4 /* ImbyEmailViewController.m */; };
 		4C6B0AF81891FC630004E584 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C6B0AF71891FC630004E584 /* MessageUI.framework */; };
-		4C8C3C841891A3BE0021B7FE /* ImbyDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C8C3C831891A3BE0021B7FE /* ImbyDetailViewController.m */; };
+		4CAE7236189B2666006DE071 /* ImbyProjDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CAE7235189B2666006DE071 /* ImbyProjDetailController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +50,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2FF5492518A46A35001D9546 /* king-plans_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "king-plans_02.jpg"; sourceTree = "<group>"; };
+		2FF5492618A46A35001D9546 /* king-plans_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "king-plans_03.jpg"; sourceTree = "<group>"; };
+		2FF5492718A46A35001D9546 /* king-plans_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "king-plans_04.jpg"; sourceTree = "<group>"; };
+		2FF5492818A46A35001D9546 /* king-plans_17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "king-plans_17.jpg"; sourceTree = "<group>"; };
+		2FF5492918A46A35001D9546 /* king-plans_18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "king-plans_18.jpg"; sourceTree = "<group>"; };
 		4C1FA8BA1886D2290044F78D /* Imby.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Imby.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C1FA8BD1886D2290044F78D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4C1FA8BF1886D2290044F78D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -58,6 +73,14 @@
 		4C1FA8E21886D2290044F78D /* ImbyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImbyTests.m; sourceTree = "<group>"; };
 		4C1FA8EC1886D26E0044F78D /* MainStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
 		4C1FA8F01886D8670044F78D /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		4C3EFC18189FFCCE00A4550C /* ImbyPageContentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImbyPageContentViewController.h; sourceTree = "<group>"; };
+		4C3EFC19189FFCCE00A4550C /* ImbyPageContentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImbyPageContentViewController.m; sourceTree = "<group>"; };
+		4C3EFC1B189FFE1600A4550C /* ImbyStartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImbyStartViewController.h; sourceTree = "<group>"; };
+		4C3EFC1C189FFE1600A4550C /* ImbyStartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImbyStartViewController.m; sourceTree = "<group>"; };
+		4C498E691897324D00E9026A /* ImbyCalendarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImbyCalendarViewController.h; sourceTree = "<group>"; };
+		4C498E6A1897324D00E9026A /* ImbyCalendarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImbyCalendarViewController.m; sourceTree = "<group>"; };
+		4C498E6C1897335000E9026A /* EventKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EventKit.framework; path = System/Library/Frameworks/EventKit.framework; sourceTree = SDKROOT; };
+		4C498E6E1897336500E9026A /* EventKitUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EventKitUI.framework; path = System/Library/Frameworks/EventKitUI.framework; sourceTree = SDKROOT; };
 		4C4E521C1888DE0C00199443 /* ImbyMapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImbyMapViewController.h; sourceTree = "<group>"; };
 		4C4E521D1888DE0C00199443 /* ImbyMapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImbyMapViewController.m; sourceTree = "<group>"; };
 		4C4E52221889CB7000199443 /* ImbyAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImbyAnnotation.h; sourceTree = SOURCE_ROOT; };
@@ -67,8 +90,8 @@
 		4C66B38E188A0B3D0095FDB4 /* ImbyEmailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImbyEmailViewController.h; sourceTree = "<group>"; };
 		4C66B38F188A0B3D0095FDB4 /* ImbyEmailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImbyEmailViewController.m; sourceTree = "<group>"; };
 		4C6B0AF71891FC630004E584 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
-		4C8C3C821891A3BE0021B7FE /* ImbyDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImbyDetailViewController.h; sourceTree = "<group>"; };
-		4C8C3C831891A3BE0021B7FE /* ImbyDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImbyDetailViewController.m; sourceTree = "<group>"; };
+		4CAE7234189B2666006DE071 /* ImbyProjDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImbyProjDetailController.h; sourceTree = "<group>"; };
+		4CAE7235189B2666006DE071 /* ImbyProjDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImbyProjDetailController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +99,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C498E6F1897336500E9026A /* EventKitUI.framework in Frameworks */,
+				4C498E6D1897335000E9026A /* EventKit.framework in Frameworks */,
 				4C6B0AF81891FC630004E584 /* MessageUI.framework in Frameworks */,
 				4C1FA8F11886D8670044F78D /* MapKit.framework in Frameworks */,
 				4C1FA8C01886D2290044F78D /* CoreGraphics.framework in Frameworks */,
@@ -119,6 +144,8 @@
 		4C1FA8BC1886D2290044F78D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				4C498E6E1897336500E9026A /* EventKitUI.framework */,
+				4C498E6C1897335000E9026A /* EventKit.framework */,
 				4C6B0AF71891FC630004E584 /* MessageUI.framework */,
 				4C1FA8F01886D8670044F78D /* MapKit.framework */,
 				4C1FA8BD1886D2290044F78D /* Foundation.framework */,
@@ -132,6 +159,11 @@
 		4C1FA8C31886D2290044F78D /* Imby */ = {
 			isa = PBXGroup;
 			children = (
+				2FF5492518A46A35001D9546 /* king-plans_02.jpg */,
+				2FF5492618A46A35001D9546 /* king-plans_03.jpg */,
+				2FF5492718A46A35001D9546 /* king-plans_04.jpg */,
+				2FF5492818A46A35001D9546 /* king-plans_17.jpg */,
+				2FF5492918A46A35001D9546 /* king-plans_18.jpg */,
 				4C1FA8CC1886D2290044F78D /* ImbyAppDelegate.h */,
 				4C1FA8CD1886D2290044F78D /* ImbyAppDelegate.m */,
 				4C1FA8CF1886D2290044F78D /* Images.xcassets */,
@@ -139,12 +171,18 @@
 				4C1FA8EC1886D26E0044F78D /* MainStoryboard.storyboard */,
 				4C4E521C1888DE0C00199443 /* ImbyMapViewController.h */,
 				4C4E521D1888DE0C00199443 /* ImbyMapViewController.m */,
+				4C3EFC18189FFCCE00A4550C /* ImbyPageContentViewController.h */,
+				4C3EFC19189FFCCE00A4550C /* ImbyPageContentViewController.m */,
+				4CAE7234189B2666006DE071 /* ImbyProjDetailController.h */,
+				4CAE7235189B2666006DE071 /* ImbyProjDetailController.m */,
 				4C66B38B188A00850095FDB4 /* ImbyWebViewController.h */,
 				4C66B38C188A00850095FDB4 /* ImbyWebViewController.m */,
 				4C66B38E188A0B3D0095FDB4 /* ImbyEmailViewController.h */,
 				4C66B38F188A0B3D0095FDB4 /* ImbyEmailViewController.m */,
-				4C8C3C821891A3BE0021B7FE /* ImbyDetailViewController.h */,
-				4C8C3C831891A3BE0021B7FE /* ImbyDetailViewController.m */,
+				4C498E691897324D00E9026A /* ImbyCalendarViewController.h */,
+				4C498E6A1897324D00E9026A /* ImbyCalendarViewController.m */,
+				4C3EFC1B189FFE1600A4550C /* ImbyStartViewController.h */,
+				4C3EFC1C189FFE1600A4550C /* ImbyStartViewController.m */,
 			);
 			path = Imby;
 			sourceTree = "<group>";
@@ -228,6 +266,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Heather Simmons";
 				TargetAttributes = {
+					4C1FA8B91886D2290044F78D = {
+						DevelopmentTeam = GZY2Q2VM3V;
+					};
 					4C1FA8D41886D2290044F78D = {
 						TestTargetID = 4C1FA8B91886D2290044F78D;
 					};
@@ -258,8 +299,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C1FA8ED1886D26E0044F78D /* MainStoryboard.storyboard in Resources */,
+				2FF5492A18A46A35001D9546 /* king-plans_02.jpg in Resources */,
+				2FF5492E18A46A35001D9546 /* king-plans_18.jpg in Resources */,
 				4C1FA8C81886D2290044F78D /* InfoPlist.strings in Resources */,
+				2FF5492B18A46A35001D9546 /* king-plans_03.jpg in Resources */,
 				4C1FA8D01886D2290044F78D /* Images.xcassets in Resources */,
+				2FF5492C18A46A35001D9546 /* king-plans_04.jpg in Resources */,
+				2FF5492D18A46A35001D9546 /* king-plans_17.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,12 +324,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CAE7236189B2666006DE071 /* ImbyProjDetailController.m in Sources */,
+				4C3EFC1A189FFCCE00A4550C /* ImbyPageContentViewController.m in Sources */,
 				4C1FA8CA1886D2290044F78D /* main.m in Sources */,
+				4C498E6B1897324D00E9026A /* ImbyCalendarViewController.m in Sources */,
 				4C4E521E1888DE0C00199443 /* ImbyMapViewController.m in Sources */,
 				4C1FA8CE1886D2290044F78D /* ImbyAppDelegate.m in Sources */,
+				4C3EFC1D189FFE1600A4550C /* ImbyStartViewController.m in Sources */,
 				4C4E52241889CB7000199443 /* ImbyAnnotation.m in Sources */,
 				4C66B390188A0B3D0095FDB4 /* ImbyEmailViewController.m in Sources */,
-				4C8C3C841891A3BE0021B7FE /* ImbyDetailViewController.m in Sources */,
 				4C66B38D188A00850095FDB4 /* ImbyWebViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -343,6 +392,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -382,6 +432,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
@@ -403,10 +454,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Imby/Imby-Prefix.pch";
 				INFOPLIST_FILE = "Imby/Imby-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -416,10 +470,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Imby/Imby-Prefix.pch";
 				INFOPLIST_FILE = "Imby/Imby-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
