@@ -171,7 +171,7 @@
     {
         selectedAnnotation = view.annotation;
         NSLog(@"accessory button tapped for annotation %@", view.annotation);
-        NSLog (@"control tag is %d", control.tag);
+        NSLog (@"control tag is %ld", control.tag);
     
         [self performSegueWithIdentifier:@"projectDetails" sender:self];
         

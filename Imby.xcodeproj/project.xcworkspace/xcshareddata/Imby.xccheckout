@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8EBFF7EC-DD15-4326-AFA1-B80BABF70E2F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Imby</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8509735C-F140-4179-8BAE-7D9E4A821171</key>
+		<string>https://github.com/rborbridge/IMBYComplete.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Imby.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8509735C-F140-4179-8BAE-7D9E4A821171</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rborbridge/IMBYComplete.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8509735C-F140-4179-8BAE-7D9E4A821171</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8509735C-F140-4179-8BAE-7D9E4A821171</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IMBYComplete</string>
+		</dict>
+	</array>
+</dict>
+</plist>
